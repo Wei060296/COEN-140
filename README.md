@@ -1,2 +1,2 @@
-# COEN-140
+# COEN 140
 Machine Learning
