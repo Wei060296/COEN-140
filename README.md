@@ -13,3 +13,5 @@ Lab 3: Use Linear Discriminant Analysis (LDA) and Quadratic Discriminant Analysi
 Lab 4: Implement Linear Discriminant Analysis (LDA) and Quadratic Discriminant Analysis (QDA) without any machine learning libraries
 
 Lab 5: Implement Linear Regression and Ridge Regression in Python without using any machine learning libraries
+
+Lab 6: Implement Cross-Validation and Gradient Descent for regression without using any machine learning libraries
