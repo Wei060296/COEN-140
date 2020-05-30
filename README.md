@@ -15,3 +15,5 @@ Lab 4: Implement Linear Discriminant Analysis (LDA) and Quadratic Discriminant A
 Lab 5: Implement Linear Regression and Ridge Regression in Python without using any machine learning libraries
 
 Lab 6: Implement Cross-Validation and Gradient Descent for regression without using any machine learning libraries
+
+Lab 7: Implement spam classification using Logistic Regression
