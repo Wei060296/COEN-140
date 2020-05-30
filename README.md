@@ -17,3 +17,5 @@ Lab 5: Implement Linear Regression and Ridge Regression in Python without using 
 Lab 6: Implement Cross-Validation and Gradient Descent for regression without using any machine learning libraries
 
 Lab 7: Implement spam classification using Logistic Regression
+
+Lab 8: Use K-Means Clustering on the MNIST dataset, which is a dataset of 28 × 28 images of hand-written digits
