@@ -21,3 +21,5 @@ Lab 7: Implement spam classification using Logistic Regression
 Lab 8: Use K-Means Clustering on the MNIST dataset, which is a dataset of 28 × 28 images of hand-written digits
 
 Lab 9: Plot the 2000 MNIST digit images in Lab 8 to the 2 and 3 dimensional spaces respectively after applying PCA
+
+Final Project: Created a stock market predictor by utilizing Linear Regression, Ridge Regression, and Long Short Term Memory (LSTM) on historical stock market prices from Apple, Intel, and Microsoft
